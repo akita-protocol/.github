@@ -72,15 +72,15 @@ npx @akta/agent-wallet-cli setup
 
 <br/>
 
-```
-  Your App / DAO CLI / AI Agent
-              |
-        @akta/sdk
-    (18 tree-shakeable modules)
-              |
-    Algorand AVM (65+ contracts)
-      ARC-58 · Gates · Plugins
-```
+<pre>
+Your App / DAO CLI / AI Agent
+            |
+      @akta/sdk
+  (18 tree-shakeable modules)
+            |
+  Algorand AVM (65+ contracts)
+    ARC-58 · Gates · Plugins
+</pre>
 
 <br/>
 
