@@ -4,9 +4,9 @@
 
 <br/>
 
-### Composable smart contracts on Algorand
+### The definitive social protocol & smart wallet for the next generation
 
-Build governance, DeFi, social, NFT, and AI agent applications<br/>with 65+ production smart contracts and a unified TypeScript SDK.
+Built on Algorand — fully on-chain social, ARC-58 abstracted accounts,<br/>and a composable smart contract ecosystem powering what comes next.
 
 <br/>
 
@@ -22,9 +22,25 @@ Build governance, DeFi, social, NFT, and AI agent applications<br/>with 65+ prod
 <tr>
 <td width="50%" valign="top">
 
+#### Decentralized Social
+
+Fully on-chain social protocol — posts via IPFS, NFT reactions, social graph, impact scoring, and community moderation. No central server, no algorithm gatekeeping.
+
+</td>
+<td width="50%" valign="top">
+
+#### Smart Wallets (ARC-58)
+
+Abstracted accounts with 20+ installable plugins, composable gate permissions, escrow sandboxing, and spending allowances. The foundation for every Akita application.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### @akta/sdk
 
-The core TypeScript SDK — 18 tree-shakeable modules wrapping 65+ on-chain contracts. Programmable wallets, DAO governance, DeFi, social, NFT marketplace, and more.
+TypeScript SDK — 18 tree-shakeable modules wrapping 65+ on-chain contracts. Social, wallets, DeFi, governance, NFT marketplace, and more.
 
 ```bash
 npm install @akta/sdk
@@ -35,31 +51,11 @@ npm install @akta/sdk
 
 #### @akta/agent-wallet
 
-Give AI agents a secure, sandboxed wallet on Algorand. Plugin-gated actions, spending allowances, and first-class support for Claude Desktop, Claude Code, and any MCP client.
+Give AI agents a secure, sandboxed smart wallet on Algorand. Plugin-gated actions, spending allowances, and first-class MCP support for Claude and other AI clients.
 
 ```bash
 npx @akta/agent-wallet-cli setup
 ```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### @akta/dao-cli
-
-Interactive terminal dashboard for exploring Akita DAO on-chain state. Full TUI mode with governance proposals, fees, and wallet inspection — no private keys needed.
-
-```bash
-npx @akta/dao-cli
-```
-
-</td>
-<td width="50%" valign="top">
-
-#### Smart Contracts
-
-65+ production contracts deployed on mainnet and testnet. ARC-58 abstracted accounts, 20+ wallet plugins, 16 composable gate types, HyperSwap merkle swaps, and a fully on-chain social protocol.
 
 </td>
 </tr>
@@ -71,8 +67,8 @@ npx @akta/dao-cli
 
 #### What you can build
 
-**Programmable Wallets** &nbsp;&bull;&nbsp; **DAO Governance** &nbsp;&bull;&nbsp; **DeFi & Atomic Swaps** &nbsp;&bull;&nbsp; **NFT Marketplaces**<br/>
-**Decentralized Social** &nbsp;&bull;&nbsp; **Token-Gated Apps** &nbsp;&bull;&nbsp; **AI Agent Wallets** &nbsp;&bull;&nbsp; **Subscription Services**
+**Decentralized Social** &nbsp;&bull;&nbsp; **Smart Wallets** &nbsp;&bull;&nbsp; **AI Agent Wallets** &nbsp;&bull;&nbsp; **Token-Gated Apps**<br/>
+**DAO Governance** &nbsp;&bull;&nbsp; **DeFi & Atomic Swaps** &nbsp;&bull;&nbsp; **NFT Marketplaces** &nbsp;&bull;&nbsp; **Subscription Services**
 
 <br/>
 
